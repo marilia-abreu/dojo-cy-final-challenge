@@ -1,0 +1,27 @@
+{
+  "name": "dojo-cy-final-challenge",
+  "version": "1.0.0",
+  "description": "Automation project for Dojo Cypress' final challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marilia-abreu/dojo-cy-final-challenge.git"
+  },
+  "keywords": [
+    "automation",
+    "tests",
+    "cypress"
+  ],
+  "author": "Marilia Abreu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marilia-abreu/dojo-cy-final-challenge/issues"
+  },
+  "homepage": "https://github.com/marilia-abreu/dojo-cy-final-challenge#readme",
+  "dependencies": {
+    "cypress": "^10.10.0"
+  }
+}
